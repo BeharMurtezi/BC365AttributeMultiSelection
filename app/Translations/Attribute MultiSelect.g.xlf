@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Attribute MultiSelect">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 228820503 - Method 2650886888 - NamedType 2270183915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value is too long more then 250 characters, Please select a shorter value.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FT General Functions - Method GetMultiSelectionValue - NamedType ToLongTextErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 624292509 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Post. Sal. Cr. Memo Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 624292509 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Post. Sal. Cr. Memo Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 485237201 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Post. Sales Invoice Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 485237201 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Post. Sales Invoice Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 370143972 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1227332174">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Posted Sales Shpt. Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 370143972 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1227332174">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Posted Sales Shpt. Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2406902087 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Cr. Memo Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2406902087 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Cr. Memo Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3695208331 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Invoice Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3695208331 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Invoice Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 603514930 - Control 585258663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Specifies the Attribute Value of transaction that was posted with the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Order Subform - Control FT Attribute Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 603514930 - Control 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FT Sales Order Subform - Control FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1805872444 - Field 698481241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1547761382">
+          <source>Combine Attribute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FT Item Attribute Value - Field FT Combine Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 440249131 - Field 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FT Sales Cr.Memo Line - Field FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4010352423 - Field 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FT Sales Invoice Line - Field FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 707086328 - Field 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FT Sales Line - Field FT Attribute Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1233875160 - Field 585258663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Attribute Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FT Sales Shipment Line - Field FT Attribute Value - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
