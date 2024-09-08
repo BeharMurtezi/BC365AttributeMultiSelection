@@ -1,0 +1,21 @@
+# ALTB
+#.vscode/
+#.alpackages/
+.altemplates/
+.alcache/
+.altestrunner/
+*.app
+#launch.json
+#app.json
+rad.json
+
+# ALTB
+#.vscode/
+#.alpackages/
+.app/.altemplates/
+.app/.alcache/
+.app/.altestrunner/
+*.app
+#launch.json
+#app.json
+rad.json

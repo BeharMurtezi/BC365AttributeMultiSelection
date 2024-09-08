@@ -1,0 +1,38 @@
+{
+  "folders": [
+    {
+      "name": "app",
+      "path": "app"
+    }
+  ],
+  "settings": {
+    "CRS.AlSubFolderName": "src",
+    "CRS.ExtensionObjectNamePattern": "",
+    "CRS.FileNamePattern": "<ObjectId>.<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNamePrefix": "FT ",
+    "CRS.ObjectNameSuffix": "",
+    "CRS.RemovePrefixFromFilename": false,
+    "al.backgroundCodeAnalysis": false,        
+    "CRS.RenameWithGit": false,
+    "al.editorServicesLogLevel": "Verbose",
+    "CRS.OnSaveAlFileAction": "Reorganize",
+	"mandatoryAffixes": [ "" ]
+    "al.codeAnalyzers": [
+      "${CodeCop}",
+      "${UICop}",
+      "${PerTenantExtensionCop}", 
+      "${analyzerFolder}BusinessCentral.LinterCop.dll"
+    ],
+    "al.enableCodeAnalysis": false,
+    "al.enableCodeActions": true
+  },
+  "extensions": {
+    "recommendations": [    
+      "ms-dynamics-smb.al",
+      "waldo.crs-al-language-extension",
+      "vscode-icons-team.vscode-icons"
+    ]
+  }
+}
